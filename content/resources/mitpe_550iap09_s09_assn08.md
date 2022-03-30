@@ -4,6 +4,7 @@ description: Homwork assignment on healing haunting incidents and reflecting on 
   results of action
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/pe-550-designing-your-life-spring-2009/9e479f4d19c15b38ce3e57f5f4c17e96_MITPE_550iap09_s09_assn08.pdf
 file_type: application/pdf
+parent_uid: 4cf320f0-765a-3002-85c6-78560965b80a
 resourcetype: Document
 title: 'Homework 8: Connecting Hauntings, Traits, and Theories '
 uid: 9e479f4d-19c1-5b38-ce3e-57f5f4c17e96
